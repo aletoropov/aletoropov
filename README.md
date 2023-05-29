@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Alexandr 👋 </h1>
+<h3 align="center">Junior PHP developer</h3>
 
 <!--
 **aletoropov/aletoropov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
