@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Alexandr 👋 </h1>
 <h3 align="center">Junior PHP developer</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletoropov)]
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aletoropov&show_icons=true&theme=radical)
 
 <!--
