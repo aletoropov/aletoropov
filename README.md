@@ -1,21 +1,14 @@
 <h1 align="center">Hi there, I'm Alexandr 👋 </h1>
 <h3 align="center">Junior PHP developer</h3>
 
+- 🔭 I’m currently learning PHP, MySQL, Yii2, Docker.
+- 👯 I’m looking to collaborate on Web-development.
+- 🤔 I’m looking for help with Docker, Design patterns, Redis.
+- ⚡ My IDE is PHPStorm.
+- 💬 My main OS is Linux Mint. 
+- 🌱 I’m currently hobby bicycle.
+- 📫 How to reach me: icq @alesite
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletoropov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![codewars](https://www.codewars.com/users/aletoropov/badges/small)](https://www.codewars.com/users/aletoropov) 
-
-<!--
-**aletoropov/aletoropov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
