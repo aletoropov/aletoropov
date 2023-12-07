@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Alexandr 👋 </h1>
 <h3 align="center">Junior PHP developer</h3>
 
+![](https://komarev.com/ghpvc/?username=4haz2k&style=flat&color=yellow)
+
 - 🔭 I’m currently learning PHP, MySQL, Yii2, Docker.
 - 👯 I’m looking to collaborate on Web-development.
 - 🤔 I’m looking for help with Docker, Design patterns, Redis.
