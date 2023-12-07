@@ -14,9 +14,15 @@
 ### Statistic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletoropov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-<br>
+
+<br />
+
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aletoropov&show_icons=true" />
-<br>
+
+<br />
+
 [![codewars](https://www.codewars.com/users/aletoropov/badges/small)](https://www.codewars.com/users/aletoropov) 
-<br>
+
+<br/>
+
 ![](https://komarev.com/ghpvc/?username=aletoropov&style=flat&color=yellow)
