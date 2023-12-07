@@ -9,6 +9,8 @@
 - 🌱 I’m currently hobby bicycle.
 - 📫 How to reach me: icq @alesite
 
+### Statistic
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletoropov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![codewars](https://www.codewars.com/users/aletoropov/badges/small)](https://www.codewars.com/users/aletoropov) 
