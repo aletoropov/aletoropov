@@ -5,7 +5,7 @@
 - 🛠 I'm developing on Yii2 framework.
 - 👯 I’m looking to collaborate on Web-development.
 - 🤔 I’m looking for help with Docker, Design patterns, Redis.
-- ✏️ My IDE is PHPStorm.
+- ✏️ My IDE is PHPStorm + xDebug.
 - 🖥 My main OS is Linux Mint. 
 - 🌱 I’m currently hobby bicycle.
 - 📫 How to reach me: icq @alesite
