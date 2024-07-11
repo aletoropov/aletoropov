@@ -8,7 +8,7 @@
 - ✏️ My IDE is PHPStorm + xDebug.
 - 🖥 My main OS is Linux Mint. 
 - 🌱 I’m currently hobby bicycle.
-- 📫 How to reach me: icq @alesite
+- 📫 How to reach me: tg @alesite
 
 <br/>
 
